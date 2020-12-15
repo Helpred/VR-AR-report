@@ -1,6 +1,5 @@
 ## Добро пожаловать что ли...
 
-Это сайт с открытым кодом. Что бы его поменять перейдите по ссылке на онлайн-эдитор гитхаба: [editor on GitHub](https://www.youtube.com/watch?v=k-LPLazY22I&ab_channel=RAMboyRun) 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
@@ -9,6 +8,8 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 [https://ibb.co/6WngYW9]
 
 ![sensorama](https://ibb.co/6WngYW9)
+
+![image](https://user-images.githubusercontent.com/71517471/102233123-f8b39280-3f00-11eb-8091-22413fab10a5.png)
 
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
@@ -40,3 +41,5 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+Это сайт с открытым кодом. Что бы его поменять перейдите по ссылке на онлайн-эдитор гитхаба: [editor on GitHub](https://www.youtube.com/watch?v=k-LPLazY22I&ab_channel=RAMboyRun)
