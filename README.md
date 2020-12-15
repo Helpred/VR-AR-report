@@ -1,6 +1,6 @@
 ## Добро пожаловать что ли...
 
-Это сайт с открытым кодом. Что бы его поменять перейдите по ссылке на онлайн-эдитор гитхаба: [editor on GitHub](https://www.youtube.com/watch?v=k-LPLazY22I&ab_channel=RAMboyRun) to maintain and preview the content for your website in Markdown files.
+Это сайт с открытым кодом. Что бы его поменять перейдите по ссылке на онлайн-эдитор гитхаба: [editor on GitHub](https://www.youtube.com/watch?v=k-LPLazY22I&ab_channel=RAMboyRun) 
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
