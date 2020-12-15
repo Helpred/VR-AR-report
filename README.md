@@ -1,9 +1,10 @@
-## Добро пожаловать что ли...
+## Виртуальная и дополненная реальность
 
+Работу выполнил студент Московского авиационного института
+Чириков Е.А.
+Москва 2020
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+### Содержание
 
 [https://ibb.co/6WngYW9]
 
